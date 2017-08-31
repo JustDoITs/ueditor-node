@@ -1,0 +1,23 @@
+{
+  "name": "ueditor-node",
+  "version": "1.0.0",
+  "description": "> node server for UEditor",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustDoITs/ueditor-node.git"
+  },
+  "keywords": [
+    "node",
+    "ueditor"
+  ],
+  "author": "rener",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JustDoITs/ueditor-node/issues"
+  },
+  "homepage": "https://github.com/JustDoITs/ueditor-node#readme"
+}
